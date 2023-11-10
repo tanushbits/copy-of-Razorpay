@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#top1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    height:55px;
+}
+
+#startnow{
+    background-color: rgb(226, 110, 97);
+    color:white;
+    padding: 7px 20px;
+}
+
+#nav1{
+    background-color: rgb(12, 2, 58);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+}
+
+#top2div1{
+    display: flex;
+    justify-content: center;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.nav1button{
+    padding: 7px 20px;
+    background-color: rgb(12,2,58);
+    color:white ;
+    border: 0;
+    font-size:medium
+}
+
+.middleline{
+    display: inline-block;
+    width: 24px;
+    height: 4px;
+    /* margin-top:20px;
+    margin-bottom: 20px; */
+    background-color:aqua;
+}
+
+.acceptpayments{
+    color: white;
+    font-size: 18px;
+}
+
+.headingparagraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 550px;
+}
+
+.divafterblue{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    margin-top: 29px;
+}
+
+.divandimage{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    margin-top: 54px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+}
+
+.headingandlist{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.signupnow{
+    background-color: rgb(11, 115, 234);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    width: 130px;
+}
+    
